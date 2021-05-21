@@ -1,8 +1,12 @@
 # merkleflut
 
+[![Node.js CI](https://github.com/TimDaub/merkleflut/actions/workflows/node.js.yml/badge.svg)](https://github.com/TimDaub/merkleflut/actions/workflows/node.js.yml)
+
 > Merkle-flut is a generative multi-medial storytelling machine.
 
 ## installation
+
+clone repository via git, then:
 
 ```bash
 $ npm i
