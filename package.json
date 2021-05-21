@@ -1,0 +1,27 @@
+{
+  "name": "merkle-flut",
+  "version": "0.0.1",
+  "description": "Merkle-flut is a generative multi-medial storytelling machine.",
+  "main": "src/listen.mjs",
+  "scripts": {
+    "dev": "node src/listen.mjs"
+  },
+  "keywords": [
+    "merkle",
+    "tree",
+    "ethereum",
+    "web3",
+    "authentication",
+    "story",
+    "telling",
+    "multi",
+    "media",
+    "pixelflut"
+  ],
+  "author": "Tim Daubenschütz <tim@daubenschuetz.de> (https://timdaub.github.io)",
+  "license": "GPL-3.0-only",
+  "dependencies": {
+    "dotenv": "9.0.2",
+    "express": "4.17.1"
+  }
+}
