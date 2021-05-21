@@ -17,6 +17,10 @@ merkleflut uses a hash tree to authenticate stored data. The diagram shows that 
 
 ![](./assets/datamodel.png)
 
+## further documentation
+
+see documents directory.
+
 ## license
 
 see LICENSE file.
